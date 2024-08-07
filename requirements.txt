@@ -4,3 +4,4 @@ pysqlite3
 Chroma
 pymupdf
 python-dotenv
+chromadb
