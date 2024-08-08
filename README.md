@@ -2,6 +2,7 @@
 - this demo  llm & Rag using  call openAi api s
 ##  สร้าง  envelopment สำหรับการพัฒนา
 
+
 ```bash
 python -m venv  prototype
 ```
@@ -15,6 +16,18 @@ prototype\Scripts\activate
 ```bash
 python -m pip install --upgrade pip
 ```
+=======
+
+##  สร้าง conda environment 
+
+```bash
+conda create -n prototypeone python=3.9
+```
+## activate  conda
+```bash
+conda activate
+```
+
 ## install requirements
 
 ```bash
