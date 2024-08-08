@@ -1,7 +1,5 @@
-langchain_community
-langchain_openai
-pysqlite3
-Chroma
+langchain_community==0.2.11
+langchain_openai==0.1.20
+python-dotenv==1.0.1
 pymupdf
-python-dotenv
-chromadb
+chromadb==0.5.4
