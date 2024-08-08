@@ -16,7 +16,6 @@ prototype\Scripts\activate
 ```bash
 python -m pip install --upgrade pip
 ```
-=======
 
 ##  สร้าง conda environment 
 
