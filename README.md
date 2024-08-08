@@ -6,6 +6,11 @@
 ```bash
 conda create -n prototypeone python=3.9
 ```
+## activate  conda
+```bash
+conda activate
+```
+ 
 ## install requirements
 
 ```bash
